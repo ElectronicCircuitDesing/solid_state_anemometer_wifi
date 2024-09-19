@@ -10,7 +10,7 @@ Existe una versión simple y versátil de anemómetro que puede exponerse en el 
 Debido al tipo de tecnología que utiliza este dispositivo. También tendremos una medición de la temperatura ambiental. 
 
 ### Lista de materiales
-- [Anemómetro estado sólido SA01 de ECDSL](https://www.ecdsl.com/winqx.html)
+- [Anemómetro estado sólido SA01 de ECDSL](https://ecdsl.com/producto/sa-01-2/)
 - [Adaptador caja para SA01 de ECDSL](https://www.ecdsl.com/winqx.html)
 - [WEMOS D1 Mini Pro 4M](https://es.aliexpress.com/item/32801063577.html)
 - [Caja exterior resistencia IP67 de 95x65x55mm](https://es.aliexpress.com/item/4000287507400.html)
